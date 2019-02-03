@@ -13,7 +13,7 @@ namespace Snake
 
 		public bool Compute(int[][] snakeGrid, Direction snakeDirection)
 		{
-			//THESE ARE THE VALUES THE UI USES TO PAINT THE SNAKE, EMPTY SPACE OR AN APPLY
+			//THESE ARE THE VALUES THE UI USES TO PAINT THE SNAKE, EMPTY SPACE OR AN APPLE
 			//DON'T CHANGE
 			const int emptyValue = 0;
 			const int snakeValue = 1;
